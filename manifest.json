@@ -3,7 +3,7 @@
     "name": "HanGIS",
     "lang": "en",
     "description": "An experimental GIS",
-    "start_url": "/",
+    "start_url": "https://gokhancamm.github.io/PWA/",
     "background_color": "#ffffff",
     "theme_color": "#f5c54b",
     "dir": "ltr",
