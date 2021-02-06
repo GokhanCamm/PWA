@@ -1,9 +1,9 @@
 var CACHE_NAME = 'HanGIS';
 var urlsToCache = [
-  '/',
-  '/style.css',
-  '/script.js',
-  '/index.html'
+  './',
+  './style.css',
+  './script.js',
+  './index.html'
 ];
 
 self.addEventListener('install', function(event) {
