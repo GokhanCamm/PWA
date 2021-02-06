@@ -1,0 +1,13 @@
+#mainNav  {
+    left: 0px;
+    top: 0px;
+    background: #D39E16;
+}
+
+.navbar-toggler{
+    border: none;
+}
+
+#mapid { 
+width: 320;
+height: 512px; }
